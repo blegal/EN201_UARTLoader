@@ -11,19 +11,25 @@ First, create a directory or reuse the previously created one:
 mkdir the_en201_directory
 ```
 
-Then go inside this directory:
+Then move in this directory:
 
 ```
 cd the_en201_directory
 ```
 
+Clone the directory avaible on GitHub:
+
 ```
 git clone https://github.com/blegal/EN201_UARTLoader.git
 ```
 
+Then move in EN201_UARTLoader directory:
+
 ```
 cd EN201_UARTLoader
 ```
+
+Create the program from the source codes:
 
 ```
 make
