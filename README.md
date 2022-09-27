@@ -38,11 +38,14 @@ make
 Program the FPGA target this the UART interface and then execute:
 
 ```
+./bin/main ./data/selfie.uart
 ```
 
 or
 
 ```
+./bin/main ./data/soupe_au_choux.uart
 ```
 
 depending on the music data you want :-)
+
